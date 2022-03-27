@@ -1,0 +1,54 @@
+
+BODY, html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Sigmar One', sans-serif;
+  color: #BCD9D9;
+  text-shadow: 2px 2px #C2689D;
+  background: url("../images/wallpaper2.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.buffer{
+	height: 10rem;
+}
+
+
+
+.btn-xl {
+	color: white;
+	padding: 1rem 2rem;
+}
+
+.btn{
+	color: white;
+	fort-weight: 700;
+	border-radius: 300px;
+}
+
+
+
+.btn-primary{
+	color: white;
+	
+	background-color: #FF3B30;
+	border-color: #FF3B30;
+}
+
+.btn-primary:hover {
+	background-color: #B10900;
+	border-color: #B10900;
+}
+
+.container{
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.a{
+	color: white;
+}
